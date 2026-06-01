@@ -9,4 +9,4 @@
 ## 链接
 
 - 官网：https://epic317.bucea.online/
-- GitHub：https://github.com/buceaepic
+- GitHub：https://github.com/BUCEA-EPIC
